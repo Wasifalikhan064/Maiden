@@ -27,7 +27,8 @@ const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "mern-wexa.firebaseapp.com",
   projectId: "mern-wexa",
-  storageBucket: "mern-wexa.firebasestorage.app",
+  //storageBucket: "mern-wexa.firebasestorage.app",
+  storageBucket: "mern-wexa.appspot.com",
   messagingSenderId: "1031530178907",
   appId: "1:1031530178907:web:d9d30554de7e716f4bd27e"
 };
