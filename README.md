@@ -1,4 +1,4 @@
-# wexaAiAssignment
+# Maiden
 
 ### About the Project
 
@@ -54,8 +54,8 @@ This app comprises of features like: posts,comments with like functionality and 
 ### To Install and Test
 
 ```bash
-git clone git@github.com:Wasifalikhan064/wexaAiAssignment.git
-cd wexaAiAssignment
+git clone git@github.com:Wasifalikhan064/Maiden.git
+cd Maiden
 ```
 
 ```bash
